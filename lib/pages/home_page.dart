@@ -1,6 +1,5 @@
 // ignore_for_file: prefer_const_literals_to_create_immutables, prefer_const_constructors, non_constant_identifier_names
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 import 'package:flutter_shopee_pay/components/my_carousel_promo.dart';
 
 import 'package:flutter_shopee_pay/components/my_lists_menu.dart';
